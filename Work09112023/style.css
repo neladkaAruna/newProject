@@ -1,0 +1,33 @@
+
+
+.first-container{
+        
+    width: 100vw;
+    height: 100vh;
+    background-image:url(./images/photo.jpg);
+    background-repeat: no repeat;
+    background-size: cover;
+}
+.first-container div{
+  position: relative;
+  top: 200px;
+
+}
+.first-container h1{
+  font-size: 30px;
+  color: antiquewhite;
+}
+.first-container h2{
+  color: antiquewhite;
+}
+.second-container{
+    display: flex;
+    margin-top: 50px;
+    padding:30px ;
+}
+.second-container div{
+    border: solid 5px;
+    margin-left: 10px;
+}
+
+
